@@ -1,7 +1,7 @@
 const btnColor = document.querySelector(".btn");
 const bodyColor = document.querySelector("body");
 
-const colores = ["green", "blue", "red", "orange", "yellow", "violet", "pink"];
+const colores = ["green", "blue", "red", "orange", "yellow", "violet", "pink", "black", "white"];
 let count = 0;
 
 bodyColor.style.background = "white";
